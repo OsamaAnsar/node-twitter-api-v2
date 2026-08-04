@@ -1,3 +1,9 @@
+1.29.1
+------
+- Fix lint and run it in CI #635 (@plhery)
+- fix OAuth nonce and PKCE randomness #634 (@plhery)
+- skip paid tweet integration test #633 (@plhery)
+
 1.29.0
 ------
 - fix: Add back the article tweet field #628 (@plhery)
